@@ -1,14 +1,14 @@
 # projetos_faculdade
 Projetos em C feitos no curso Sistemas para Internet.
 
--Pilha
+- Pilha
 
--Lista ligada
+- Lista ligada
 
--Funções recursivas 
+- Funções recursivas 
 
--Comando while
+- Comando while
 
--Combinação de operadores 
+- Combinação de operadores 
 
--Tabela de espalhamento 
+- Tabela de espalhamento 
