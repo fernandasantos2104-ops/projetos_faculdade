@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main() {
+    srand(time(NULL));
+    int numero_secreto = rand() % 100 + 1;
+    int palpite = 0;
+    
+    while (palpite != numero_secreto) {
+        printf("Adivinhe o numero de 1 a 100: ");
+        scanf("%d", &palpite);
+        
+         if (palpite == numero_secreto) {
+        printf("Acertou!\n");
+    } else if (palpite > numero_secreto) {
+        printf("Muito alto, tente um numero menor.\n");
+    } else {
+        printf("Muito baixo, tente um numero maior.\n");
+    }
+    }
+    
+    return 0;
+}
