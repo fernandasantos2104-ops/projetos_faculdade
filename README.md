@@ -1,5 +1,5 @@
 # projetos_faculdade
-Projetos em C feitos no curso Sistemas para Internet.
+Projetos em C feitos durante o curso Sistemas para Internet.
 
 - Pilha
 
